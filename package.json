@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "https": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cours_lier_ejs_api",
+  "description": "EJS\r # Cours_lier_EJS_API",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattCornicDev/Cours_lier_EJS_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattCornicDev/Cours_lier_EJS_API/issues"
+  },
+  "homepage": "https://github.com/MattCornicDev/Cours_lier_EJS_API#readme"
+}
